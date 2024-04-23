@@ -2877,7 +2877,7 @@ function DiscordLib:Window(text)
 
 				ColorpickerFrame.Name = "ColorpickerFrame"
 				ColorpickerFrame.Parent = ColorpickerTitle
-				ColorpickerFrame.BackgroundColor3 = Color3.fromRGB(54, 57, 63)
+				ColorpickerFrame.BackgroundColor3 = Color3.fromRGB(255, 102, 153)
 				ColorpickerFrame.ClipsDescendants = true
 				ColorpickerFrame.Position = UDim2.new(0.00999999978, 0, 1.06638515, 0)
 				ColorpickerFrame.Selectable = true
